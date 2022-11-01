@@ -2,7 +2,9 @@
 ![image](https://user-images.githubusercontent.com/50893303/199284715-e289a824-11c5-47ed-9331-21d52238a0fd.png)
 
 
-22/09/29 ~ ?
+22/09/29 ~ ?  
+https://docs.google.com/spreadsheets/d/1SbVcnrujYxNZSb8gBASa0jgnyxJzHuoO2Ilvy7lfXHU/edit#gid=190789411
+
 
 <br/>
 <br/>
