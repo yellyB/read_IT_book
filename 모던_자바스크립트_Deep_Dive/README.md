@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/50893303/199031174-8fe1ed49-7c4f-4720-8bfe-a75d1ae19e7d.png)
-
+<img src="https://user-images.githubusercontent.com/50893303/199031174-8fe1ed49-7c4f-4720-8bfe-a75d1ae19e7d.png" width='400px' />
 
 ## 모던 자바스크립트 Deep Dive
 
